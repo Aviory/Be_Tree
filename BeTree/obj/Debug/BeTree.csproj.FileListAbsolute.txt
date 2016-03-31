@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\BeTree\BeTree\bin\Debug\BeTree.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\BeTree\BeTree\bin\Debug\BeTree.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\BeTree\BeTree\bin\Debug\BeTree.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\BeTree\BeTree\obj\Debug\BeTree.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\BeTree\BeTree\obj\Debug\BeTree.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\BeTree\BeTree\obj\Debug\BeTree.pdb
+D:\BeTree\BeTree\bin\Debug\BeTree.exe.config
+D:\BeTree\BeTree\obj\Debug\BeTree.exe
+D:\BeTree\BeTree\obj\Debug\BeTree.pdb
